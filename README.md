@@ -1,1 +1,1 @@
-# java-hello-world
+# C-hello-world
